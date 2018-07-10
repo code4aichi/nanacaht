@@ -1373,19 +1373,15 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qRNaLmA9O6 {
+.cid-qXnt1vzSqg {
   background-image: url("../../../assets/images/0.001-1024x768.jpg");
 }
-.cid-qRNaLmA9O6 .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-qXnt1vzSqg H1 {
+  color: #ff3366;
 }
-.cid-qRNaLmA9O6 H1 {
-  text-align: center;
-  color: #ff7f9f;
-}
-.cid-qRNaLmA9O6 H3 {
-  color: #cc2952;
-  text-align: center;
+.cid-qXnt1vzSqg .mbr-text,
+.cid-qXnt1vzSqg .mbr-section-btn {
+  color: #ff3366;
 }
 .cid-qROaky2g8f {
   padding-top: 30px;
